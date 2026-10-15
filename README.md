@@ -1,14 +1,16 @@
 # Imię Nazwisko
 
-Szymek Wyrzykowski jestem gg
+Szymek Wyrzykowski jestem
 
 ## O mnie
 
-W sumie to nudziarz jestem ale lubie se pogierczyc w gierki komputerowe
+A se w gierki lubie pogierczyć teges ten. 
+I have a DREAM! Chce zrobic giere rogue-lite/rogue-like.
 
 ## Umiejętności
-- ABSOLUTNY BRAK
+- Coś tam se potrafię poprogramować, taki ze mnie ziut.
 
 ## Cele na studiach
 
-- Hmmm... no nw... pewnie nauczyc suie czegos z game devem, a w przyszlosci znalezc pracejszyn
+- Nauczyć się wystarczająco, aby znaleźć w przyszłości sensowną pracę
+- Nauczyć się GameDevu, aby zrobić w przyszłości swoje OPUS MAGNUM (gierka komputerowa)
