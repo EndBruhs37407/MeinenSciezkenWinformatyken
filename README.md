@@ -1,14 +1,29 @@
+# Meinen ścieżken w informatyken
+
+No ogólnie to piekne repozytorium to jest cncn
+
 # Imię Nazwisko
 
-Szymek Wyrzykowski jestem gg
+Szymek Wyrzykowski jestem
 
 ## O mnie
 
-W sumie to nudziarz jestem ale lubie se pogierczyc w gierki komputerowe
+A se w gierki lubie pogierczyć teges ten. 
+I have a DREAM! Chce zrobic giere rogue-lite/rogue-like.
 
 ## Umiejętności
-- ABSOLUTNY BRAK
+- Coś tam se potrafię poprogramować, taki ze mnie ziut.
 
 ## Cele na studiach
 
-- Hmmm... no nw... pewnie nauczyc suie czegos z game devem, a w przyszlosci znalezc pracejszyn
+- Nauczyć się wystarczająco, aby znaleźć w przyszłości sensowną pracę
+- Nauczyć się GameDevu, aby zrobić w przyszłości swoje OPUS MAGNUM (gierka komputerowa)
+
+### Misc info
+
+1. No tego README.md to ja zrobiłem w Markdownie
+2. Ogólnie to legendarny cheet sheet znalazłem (https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) bardzo niekiepski.
+
+### Czego żem sie nauczyl podczas wykonywania zadania
+
+- Im wiecej pracuje na tym pięknym gicie (git) to tym więcej pamiętam z poleceń w cmd
